@@ -15,7 +15,7 @@ const sectionData = [
     align: "object-center",
   },
   {
-    title: "Hire Professional Developers from Our Team",
+    title: "We works on the technology that fits for your project",
     description: "Get access to skilled and experienced developers who deliver efficient, scalable, and business-focused software solutions.",
     image: "https://images.unsplash.com/photo-1714976326351-0ecf0244f0fc?q=80&w=800&h=400&auto=format&fit=crop",
     align: "object-right",

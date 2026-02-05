@@ -57,11 +57,12 @@ export default function Navbar() {
                     </button>
 
                     <a
-                        href="#about"
+                        href="mailto:info@helperimmerse.com"
                         className="hover:bg-slate-300/20 transition px-6 py-2 border border-slate-400 rounded-md active:scale-95 inline-block"
                     >
-                        About Us
+                        Send Email
                     </a>
+
 
                 </div>
                 <button onClick={() => setIsMenuOpen(true)} className="lg:hidden active:scale-90 transition">
