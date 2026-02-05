@@ -72,7 +72,7 @@ export default function HeroSection() {
                     }}
                     className="border border-slate-400 active:scale-95 hover:bg-white/10 transition rounded-lg px-8 h-11"
                 >
-                    Book a demo
+                    Visit Our Creations
                 </button>
 
             </motion.div>
