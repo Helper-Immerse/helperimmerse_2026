@@ -67,7 +67,7 @@ export default function HeroSection() {
                     onClick={() => {
                         const phone = "918302442928"; // without +
                         const message = "Hello, I want to schedule a call with your team";
-                        const url = `https://www.overleaf.com/download/project/6984b3d0a8aa68771ccc04b8/build/19c2e8aa9c8-13aa7625e1481db5/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-c3d-d-f-v4sn&enable_pdf_caching=true&popupDownload=true`;
+                        const url = `https://www.overleaf.com/read/vfwjxpvmsmts#b884a5`;
                         window.open(url, "_blank");
                     }}
                     className="border border-slate-400 active:scale-95 hover:bg-white/10 transition rounded-lg px-8 h-11"
