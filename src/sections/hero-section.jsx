@@ -67,7 +67,7 @@ export default function HeroSection() {
                     onClick={() => {
                         const phone = "918302442928"; // without +
                         const message = "Hello, I want to schedule a call with your team";
-                        const url = `https://www.overleaf.com/read/vfwjxpvmsmts#b884a5`;
+                        const url = `https://www.canva.com/design/DAHAqWM9fsE/fTE1K3BmYEr1sSlo8wkXiA/edit?utm_content=DAHAqWM9fsE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton`;
                         window.open(url, "_blank");
                     }}
                     className="border border-slate-400 active:scale-95 hover:bg-white/10 transition rounded-lg px-8 h-11"
